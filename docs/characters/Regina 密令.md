@@ -7,5 +7,5 @@
 - skill: 
 	- [[active skill]]
 	- [[skill cost]]: 6
-	- description: cause a general attack to all the enemies in your attack range.
+	- description: cause a [[general attack]] to all the enemies in your [[attack range]].
 ![](https://imgsa.baidu.com/forum/w%3D580/sign=f43883fc0724ab18e016e13f05fbe69a/729cd5fdfc03924570d687d58994a4c27c1e255f.jpg)  

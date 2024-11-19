@@ -1,4 +1,4 @@
-# Hexo Wiki - Home
+# Home
 
 ## 1 Game Rule
 

@@ -1,0 +1,1 @@
+how many life value that a character have

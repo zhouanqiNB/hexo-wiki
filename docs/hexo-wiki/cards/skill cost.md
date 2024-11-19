@@ -1,0 +1,1 @@
+property of an [[active skill]], how many points it takes to invoke this skill.

@@ -1,0 +1,1 @@
+a property of a character, defining the maximum distance of an enemy to them that they are able to use general attack on.

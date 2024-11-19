@@ -1,0 +1,14 @@
+## 6.7 狂镰  
+- CN name: 狂镰 
+- En name: Titan
+	- a god from Greek mythology, who has strong power and is able to pull enemies beside him. He can defeat enemy and limit their movement
+- life: 24
+- attack
+	- hurt: 2
+	- distance: 1
+- talent: Toughness
+- skill: Crazy Giant(进击的巨人)
+	- active
+	- point: 6
+	- description: pull all the enemies who are within the distance of 3 to you to your side and cause 1 general hurt, and make them stuck for 1 round
+![](https://imgsa.baidu.com/forum/w%3D580/sign=8493e1a576f0f736d8fe4c093a57b382/84a8f0cd7b899e512044edce4ca7d933ca950df0.jpg)  

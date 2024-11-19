@@ -1,0 +1,1 @@
+the [[attack power]] of a character is to describe how much damage they are causing to their target

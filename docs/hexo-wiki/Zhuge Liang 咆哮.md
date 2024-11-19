@@ -1,0 +1,14 @@
+## 6.9 咆哮 
+- CN name: 咆哮
+- En name: Zhuge Liang
+	- Who killed Wang Lang by roasting
+- life: 24
+- attack
+	- hurt: 2
+	- distance: 1
+- talent: Toughness
+- skill: Undefeatable Tongue(舌战群儒)
+	- passive
+	- point: -
+	- description: enemies who are attacked by you consecutively for over 2 times within 1 round will be roasted and silenced for 1 round.
+![](https://imgsa.baidu.com/forum/w%3D580/sign=48e159db526034a829e2b889fb1149d9/3467f3dde71190efa7024205c01b9d16fffa60c6.jpg)  

@@ -4,7 +4,7 @@
 	- [[attack power]]: 3
 	- [[attack range]]: 1
 - talent: \[\]
-- skill
+- skill: Butterfly's Dream 今夜梦蝶
 	- [[active skill]]
 	- [[skill cost]]: 3
 	- description: One time a [[round]], acquire one of the [[talent]]s that you don't possess yet.

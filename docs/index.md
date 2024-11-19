@@ -1,8 +1,3 @@
----
-ref:
-  - "[[original post]]"
-  - "[[tieba-original]]"
----
 # Hexo Wiki - Home
 ## 1 Game Rule  
 ### 1.1 Build a Team

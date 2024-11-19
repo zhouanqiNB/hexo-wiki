@@ -73,17 +73,17 @@ Talent can be considered as an extra skill of the character. There are several t
 
 Currently designed characters are listed below. Those highlighted are included in the first version of this small game.
 
-1. ==[[Atalanta 神速]]==
+1. [[Atalanta 神速]]
 2. [[Kali 狼袭]]
 3. ==[[Dracula 嗜血]]==
 4. [[Regina 密令]]
 5. ==[[Medusa 烈弓]]==
 6. [[Legolas 蝶舞]]  
-7. [[Titan 狂镰]]
+7. ==[[Titan 狂镰]]==
 8. [[Thor 无双]]
 9. [[Zhuge Liang 咆哮]]
 10. [[Ursula 放逐]]
-11. [[Li Bai 酒诗]]
+11. ==[[Li Bai 酒诗]]==
 12. [[Dorian Gray 死吻]]
 13. [[Jikokuten 琴音]]
 14. ==[[Bian Que 扶伤]]==

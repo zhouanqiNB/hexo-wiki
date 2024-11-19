@@ -26,7 +26,7 @@ Players decide their move turn by turn. In one turn, a player will go through 4 
 
 1. image
 2. name
-3. talent
+3. [[talent]]
 4. [[life point]]
 5. [[general attack]]
 	1. [[attack power]]
@@ -57,7 +57,6 @@ Talent can be considered as an extra skill of the character. There are several t
 6. [[Weakened]]
 ### 4.3 Skill types
 
-
 - [[passive skill]]: triggered automatically when the conditions are fulfilled.
 - [[active skill]]: can be invoked during [[action phase]]
 ### 4.4 Attack Distance
@@ -72,7 +71,7 @@ Talent can be considered as an extra skill of the character. There are several t
 ![](https://imgsa.baidu.com/forum/w%3D580/sign=dcdb9cf100f41bd5da53e8fc61d881a0/8a95893df8dcd1001b6483fb7c8b4710bb122fc6.jpg)
 ## 6 Characters
 
-Currently active characters a
+Currently active characters are listed below.
 
 1. [[Atalanta 神速]]
 2. [[Kali 狼袭]]

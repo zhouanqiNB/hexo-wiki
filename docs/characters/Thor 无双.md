@@ -6,7 +6,7 @@
 - [[life point]]: 24
 - attack
   - [[attack power]]: 2
-  - distance: 1
+  - [[attack range]]: 1
 - talent: Toughness
 - skill: Thor's Hammer(雷神之锤) - passive - point: - - description: those who is attacked by you for over 2 times within 1 round will be stuck for next round.
   ![](https://imgsa.baidu.com/forum/w%3D580/sign=58529e1e04d162d985ee621421dea950/9f219dd4b31c8701fbd1623c297f9e2f0608ff5c.jpg)

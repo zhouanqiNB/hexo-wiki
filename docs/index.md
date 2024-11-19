@@ -1,5 +1,7 @@
 # Hexo Wiki - Home
-## 1 Game Rule  
+
+## 1 Game Rule
+
 ### 1.1 Build a Team
 
 Choose three characters as a team
@@ -11,6 +13,7 @@ Choose three characters as a team
 ### 1.2 Winning Condition
 
 When every character in enemy team is out, you win.
+
 ## 2 The Process of a turn
 
 In one round, each player has a turn to act.
@@ -29,13 +32,15 @@ Players decide their move turn by turn. In one turn, a player will go through 4 
 3. [[talent]]
 4. [[life point]]
 5. [[general attack]]
-	1. [[attack power]]
-	2. [[attack range]]
+   1. [[attack power]]
+   2. [[attack range]]
 6. skill
-	1. passive/active
-	2. [[skill cost]]
-	3. description
-## 4 Other Info  
+   1. passive/active
+   2. [[skill cost]]
+   3. description
+
+## 4 Other Info
+
 ### 4.1 Talent
 
 Talent can be considered as an extra skill of the character. There are several types:
@@ -50,16 +55,19 @@ Talent can be considered as an extra skill of the character. There are several t
 
 1. [[Freezed]]
 1. [[Disarmed]]
-2. [[Silenced]]
-3. [[Irritated]]
-4. [[Dizzy]]
-5. [[Grounded]]
-6. [[Weakened]]
+1. [[Silenced]]
+1. [[Irritated]]
+1. [[Dizzy]]
+1. [[Grounded]]
+1. [[Weakened]]
+
 ### 4.3 Skill types
 
 - [[passive skill]]: triggered automatically when the conditions are fulfilled.
 - [[active skill]]: can be invoked during [[action phase]]
+
 ### 4.4 Attack Distance
+
 3 kind:
 
 - 1
@@ -67,8 +75,11 @@ Talent can be considered as an extra skill of the character. There are several t
 - $+\infty$
 
 ![](https://imgsa.baidu.com/forum/w%3D580/sign=67ee02ea7d8da9774e2f86238050f872/faa9ededab64034f558e03dfa1c379310b551d7e.jpg)
-## 5 Classical Map 
+
+## 5 Classical Map
+
 ![](https://imgsa.baidu.com/forum/w%3D580/sign=dcdb9cf100f41bd5da53e8fc61d881a0/8a95893df8dcd1001b6483fb7c8b4710bb122fc6.jpg)
+
 ## 6 [[Character]]s
 
 Currently designed characters are listed below. Those highlighted are included in the first version of this small game.
@@ -78,7 +89,7 @@ Currently designed characters are listed below. Those highlighted are included i
 3. ==[[Dracula 嗜血]]==
 4. [[Regina 密令]]
 5. ==[[Medusa 烈弓]]==
-6. [[Legolas 蝶舞]]  
+6. [[Legolas 蝶舞]]
 7. ==[[Titan 狂镰]]==
 8. [[Thor 无双]]
 9. [[Zhuge Liang 咆哮]]
@@ -88,4 +99,4 @@ Currently designed characters are listed below. Those highlighted are included i
 13. [[Jikokuten 琴音]]
 14. ==[[Bian Que 扶伤]]==
 15. [[Athena 据守]]
-16. [[Loki 幻梦]]
+16. [[Zhuang Zhou 幻梦]]

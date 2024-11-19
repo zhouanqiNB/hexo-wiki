@@ -1,6 +1,4 @@
----
-type: soldier
----
+
 - intro: a goddess from Greek mythology who move fast
 - life: 15
 - attack

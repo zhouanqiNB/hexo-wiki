@@ -3,19 +3,20 @@ ref:
   - "[[original post]]"
   - "[[tieba-original]]"
 ---
-# 1 Game Rule  
-## 1.1 Build a Team
+# Hexo Wiki - Home
+## 1 Game Rule  
+### 1.1 Build a Team
 
 Choose three characters as a team
 
 1. When the game starts, each player will get 5 random character cards to choose from.
 2. Each player chooses 3 out of 5 characters to compose a team.
 3. show the characters chosen by each player
-4. 
-## 1.2 Winning Condition
+
+### 1.2 Winning Condition
 
 When every character in enemy team is out, you win.
-# 2 The Process of a turn
+## 2 The Process of a turn
 
 In one round, each player has a turn to act.
 
@@ -26,7 +27,7 @@ Players decide their move turn by turn. In one turn, a player will go through 4 
 - [[action phase]]
 - [[ending phase]]
 
-# 3 Properties of a Character
+## 3 Properties of a Character
 
 1. image
 2. name
@@ -39,8 +40,8 @@ Players decide their move turn by turn. In one turn, a player will go through 4 
 	1. passive/active
 	2. [[skill cost]]
 	3. description
-# 4 Other Info  
-## 4.1 Talent
+## 4 Other Info  
+### 4.1 Talent
 
 Talent can be considered as an extra skill of the character. There are several types:
 
@@ -50,7 +51,7 @@ Talent can be considered as an extra skill of the character. There are several t
 4. [[Aiding]]
 5. [[Agility]]
 
-## 4.2 Negative Status
+### 4.2 Negative Status
 
 1. [[Freezed]]
 1. [[Disarmed]]
@@ -59,12 +60,12 @@ Talent can be considered as an extra skill of the character. There are several t
 4. [[Dizzy]]
 5. [[Grounded]]
 6. [[Weakened]]
-## 4.3 Skill types
+### 4.3 Skill types
 
 
 - [[passive skill]]: triggered automatically when the conditions are fulfilled.
 - [[active skill]]: can be invoked during [[action phase]]
-## 4.4 Attack Distance
+### 4.4 Attack Distance
 3 kind:
 
 - 1
@@ -72,9 +73,9 @@ Talent can be considered as an extra skill of the character. There are several t
 - $+\infty$
 
 ![](https://imgsa.baidu.com/forum/w%3D580/sign=67ee02ea7d8da9774e2f86238050f872/faa9ededab64034f558e03dfa1c379310b551d7e.jpg)
-# 5 Classical Map 
+## 5 Classical Map 
 ![](https://imgsa.baidu.com/forum/w%3D580/sign=dcdb9cf100f41bd5da53e8fc61d881a0/8a95893df8dcd1001b6483fb7c8b4710bb122fc6.jpg)
-# 6 Characters
+## 6 Characters
 
 标准包16个英雄单位：
 

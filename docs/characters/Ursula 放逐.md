@@ -4,7 +4,7 @@
 	- [[attack power]]: 4
 	- [[attack range]]: 2
 - talent: [[Agility]]
-- skill: Poisonous Cure(蜜糖砒霜) 
+- skill: Poisonous Cure 蜜糖砒霜
 	- [[passive skill]] 
 	- point: - 
 	- description: after being attacked, designate 1 character to recover their life points by 2 and be [[Dizzy]] for 1 round (you cannot designate the same 1 consecutively)

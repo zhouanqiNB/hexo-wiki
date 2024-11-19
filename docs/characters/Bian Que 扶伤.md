@@ -4,7 +4,7 @@
 	- [[attack power]]: 3
 	- [[attack range]]: 2
 - talent: [[Aiding]]
-- skill 
+- skill: Healer's Heart 医者仁心
 	- passive 
 	- point: - 
 	- description: When using your [[talent]], the [[life point]]s going to your teammate are increased to 4(not 2)

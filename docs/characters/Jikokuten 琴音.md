@@ -4,7 +4,7 @@
   - [[attack power]]: 3
   - [[attack range]]: 2
 - talent: [[Aiding]]
-- skill: Melody(劲爆琵琶) 
+- skill: Melody 劲爆琵琶
 	- active 
 	- point: 6 
 	- description: designate at most 3 characters, you can allow them to increase or decrease life by 2 points at the same time.

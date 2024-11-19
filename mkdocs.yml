@@ -46,6 +46,8 @@ markdown_extensions:
 
   - toc:
       permalink: true
+  - pymdownx.arithmatex:
+      generic: true
 
 plugins:
   - search
@@ -66,3 +68,12 @@ extra_javascript:
   - https://unpkg.com/mermaid/dist/mermaid.min.js
 extra_css:
   - stylesheets/extra.css
+
+
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css

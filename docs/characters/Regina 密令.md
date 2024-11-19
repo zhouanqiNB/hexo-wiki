@@ -4,7 +4,7 @@
 	- [[attack power]]: 4
 	- [[attack range]]: $+\infty$
 - talent: [[Precision]]
-- skill: Queen's Pride 女王所傲
+- skill: [[Queen's Pride 女王所傲]]
 	- [[active skill]]
 	- [[skill cost]]: 6
 	- description: cause a [[general attack]] to all the enemies in your [[attack range]].

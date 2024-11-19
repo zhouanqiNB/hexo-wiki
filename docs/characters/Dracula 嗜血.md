@@ -4,7 +4,7 @@
 	- [[attack power]]: 3
 	- [[attack range]]: 1
 - talent: [[Sharpening]]
-- skill: Blood Thirst(血渴)
+- skill: [[Blood Thirst 血渴]]
 	- [[active skill]]
 	- [[skill cost]]: 6
 	- description: invoke a [[general attack]] to all the enemies who are within the distance of 2 to you, and recover as many [[life point]]s as the hurt you've just caused.

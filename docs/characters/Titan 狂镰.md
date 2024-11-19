@@ -4,7 +4,7 @@
 	- [[attack power]]: 2
 	- [[attack range]]: 1
 - talent: [[Toughness]]
-- skill: Crazy Giant(进击的巨人) 
+- skill: Crazy Giant 疯狂巨人
 	- [[active skill]] 
 	- point: 6 
 	- description: pull all the enemies who are within the distance of 3 to you beside you, and cause 1 [[general attack]], and make them [[Grounded]] for 1 round

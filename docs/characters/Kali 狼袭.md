@@ -4,7 +4,7 @@
 	- [[attack power]]: 3
 	- [[attack range]]: 1
 - talent: [[Sharpening]]
-- skill: Last Gift 临行礼物
+- skill: [[Last Gift 临行礼物]]
 	- [[passive skill]]
 	- point: -
 	- description: In [[ending phase]], causing 0-2 random hurt to all the enemies who are within the distance of 1 to you.

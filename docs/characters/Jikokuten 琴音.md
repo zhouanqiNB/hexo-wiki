@@ -1,8 +1,11 @@
-- Buddhist god, who attack using a Pipa (持国天王摩礼海)
+- intro: Buddhist god, who attack using a Pipa (持国天王摩礼海)
 - [[life point]]: 10
 - attack
   - [[attack power]]: 3
   - [[attack range]]: 2
-- talent: Aiding
-- skill: Melody(劲爆琵琶) - active - point: 6 - description: designate at most 3 characters, you can allow them to increase or decrease life by 2 points at the same time.
+- talent: [[Aiding]]
+- skill: Melody(劲爆琵琶) 
+	- active 
+	- point: 6 
+	- description: designate at most 3 characters, you can allow them to increase or decrease life by 2 points at the same time.
   ![](https://imgsa.baidu.com/forum/w%3D580/sign=dd4db163aeec08fa260013af69ef3d4d/5876ae99a9014c0844483d79047b02087af4f449.jpg)

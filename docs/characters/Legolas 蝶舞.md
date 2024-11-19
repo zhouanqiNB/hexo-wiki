@@ -4,7 +4,7 @@
 	- [[attack power]]: 4
 	- [[attack range]]: $+\infty$
 - talent: [[Precision]]
-- skill: Golden Arrow(百步穿杨) 
+- skill: [[Golden Arrow 百步穿杨]]
 	- [[passive skill]] 
 	- point: - 
 	- description: There's a 1/3 possibility that he will cause a double hurt when doing [[general attack]]

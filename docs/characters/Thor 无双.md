@@ -4,7 +4,7 @@
 	- [[attack power]]: 2
 	- [[attack range]]: 1
 - talent: [[Toughness]]
-- skill: Thor's Hammer 雷神之锤
+- skill: [[Thor's Hammer 雷神之锤]]
 	- [[passive skill]] 
 	- point: - 
 	- description: those who is attacked by you for over 2 times within 1 [[round]] will be [[Grounded]] for next round.

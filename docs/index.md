@@ -80,7 +80,7 @@ Talent can be considered as an extra skill of the character. There are several t
 
 ![](https://imgsa.baidu.com/forum/w%3D580/sign=dcdb9cf100f41bd5da53e8fc61d881a0/8a95893df8dcd1001b6483fb7c8b4710bb122fc6.jpg)
 
-## 6 [[Characters]]s
+## 6 [[Characters]]
 
 Currently designed characters are listed below. Those highlighted are included in the first version of this small game.
 

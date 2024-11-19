@@ -69,23 +69,23 @@ Talent can be considered as an extra skill of the character. There are several t
 ![](https://imgsa.baidu.com/forum/w%3D580/sign=67ee02ea7d8da9774e2f86238050f872/faa9ededab64034f558e03dfa1c379310b551d7e.jpg)
 ## 5 Classical Map 
 ![](https://imgsa.baidu.com/forum/w%3D580/sign=dcdb9cf100f41bd5da53e8fc61d881a0/8a95893df8dcd1001b6483fb7c8b4710bb122fc6.jpg)
-## 6 Characters
+## 6 [[Character]]s
 
 Currently designed characters are listed below. Those highlighted are included in the first version of this small game.
 
-1. ![[Atalanta 神速]]
-2. ![[Kali 狼袭]]
-3. ==![[Dracula 嗜血]]==
-4. ![[Regina 密令]]
-5. ==![[Medusa 烈弓]]==
-6. ![[Legolas 蝶舞]]
-7. ==![[Titan 狂镰]]==
-8. ![[Thor 无双]]
-9. ![[Zhuge Liang 咆哮]]
-10. ![[Ursula 放逐]]
-11. ==![[Li Bai 酒诗]]==
-12. ![[Dorian Gray 死吻]]
-13. ![[Jikokuten 琴音]]
-14. ==![[Bian Que 扶伤]]==
-15. ![[Athena 据守]]
-16. ![[Loki 幻梦]]
+1. [[Atalanta 神速]]
+2. [[Kali 狼袭]]
+3. ==[[Dracula 嗜血]]==
+4. [[Regina 密令]]
+5. ==[[Medusa 烈弓]]==
+6. [[Legolas 蝶舞]]  
+7. ==[[Titan 狂镰]]==
+8. [[Thor 无双]]
+9. [[Zhuge Liang 咆哮]]
+10. [[Ursula 放逐]]
+11. ==[[Li Bai 酒诗]]==
+12. [[Dorian Gray 死吻]]
+13. [[Jikokuten 琴音]]
+14. ==[[Bian Que 扶伤]]==
+15. [[Athena 据守]]
+16. [[Loki 幻梦]]

@@ -4,7 +4,7 @@
 	- [[attack power]]: 3
 	- [[attack range]]: 1
 - talent: Aiding
-- skill: Faithful Guardian 沉默守卫
+- skill: [[Faithful Guardian 沉默守卫]]
 	- [[active skill]] 
 	- [[skill cost]]: 5 
 	- description: [[designate]] a teammate, you cancel all the hurt of hers/his until yout next [[action phase]]

@@ -4,7 +4,7 @@
 	- [[attack power]]: 2
 	- [[attack range]]: 1
 - talent: [[Toughness]]
-- skill: Undefeatable Tongue 舌战群儒
+- skill: [[Undefeatable Tongue 舌战群儒]]
 	- [[passive skill]] 
 	- point: - 
 	- description: enemies who are attacked by you consecutively for over 2 times within 1 [[round]] will be [[Irritated]] and [[Silenced]] for 1 round.

@@ -5,7 +5,7 @@
 	- [[attack power]]: 4
 	- [[attack range]]: $+\infty$
 - talent: [[Precision]]
-- skill: Medusa's Eyes 美杜莎之眼
+- skill: [[Medusa's Eyes 美杜莎之眼]]
 	- [[passive skill]] 
 	- point: - 
 	- description: After being hit by your [[general attack]], your enemy's action point will decrease by 2 in the next round.

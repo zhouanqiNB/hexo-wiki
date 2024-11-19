@@ -4,7 +4,7 @@
 	- [[attack power]]: 4
 	- [[attack range]]: 2
 - talent: [[Agility]]
-- skill: Journey of a Knight 侠客行
+- skill: [[Journey of a Knight 侠客行]]
 	- [[passive skill]] 
 	- point: - 
 	- description: when another character is about to bear negative status, you can cancel it and transfer it into a [[general attack]].

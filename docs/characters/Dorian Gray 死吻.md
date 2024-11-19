@@ -4,7 +4,7 @@
 	- [[attack power]]: 4
 	- [[attack range]]: 2
 - talent: [[Agility]]
-- skill: Kill Scapegoat 祸水东引
+- skill: [[Kill Scapegoat 祸水东引]]
 	- [[passive skill]] 
 	- point: - 
 	- description: When you are to encounter deadly attack, you can cause 4 hurt to another character immediately. if your move make them dying, you can escape from the hurt you are gonna undertake.

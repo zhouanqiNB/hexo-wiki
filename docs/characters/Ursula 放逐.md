@@ -7,5 +7,5 @@
 - skill: Poisonous Cure(蜜糖砒霜) 
 	- [[passive skill]] 
 	- point: - 
-	- description: after being attacked, designate 1 character to recover their life points by 2 and be [[Dizzy]] for 1 round(you cannot designate the same 1 consecutively)
+	- description: after being attacked, designate 1 character to recover their life points by 2 and be [[Dizzy]] for 1 round (you cannot designate the same 1 consecutively)
   ![](https://imgsa.baidu.com/forum/w%3D580/sign=e706b538db39b6004dce0fbfd9523526/da31e0246b600c33758c6813144c510fdbf9a1c3.jpg)

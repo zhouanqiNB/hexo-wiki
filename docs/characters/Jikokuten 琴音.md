@@ -1,8 +1,4 @@
-## 6.13 琴音
-
-- CN name: 琴音
-- En name: Jikokuten(持国天王摩礼海)
-  - Buddhist god, who attack using a Pipa
+- Buddhist god, who attack using a Pipa (持国天王摩礼海)
 - [[life point]]: 10
 - attack
   - [[attack power]]: 3

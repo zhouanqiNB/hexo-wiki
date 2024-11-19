@@ -7,5 +7,5 @@
 - skill: Journey of a Knight(侠客行) 
 	- [[passive skill]] 
 	- point: - 
-	- description: when another character is about to bear negative state, you can cancel it and transfer it into a general attack.
+	- description: when another character is about to bear negative status, you can cancel it and transfer it into a [[general attack]].
   ![](https://imgsa.baidu.com/forum/w%3D580/sign=c43c63fa9eef76c6d0d2fb23ad14fdf6/1dfd38dda3cc7cd9acf185023701213fba0e91db.jpg)

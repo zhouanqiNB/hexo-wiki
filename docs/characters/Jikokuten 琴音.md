@@ -1,14 +1,12 @@
-## 6.13 琴音 
+## 6.13 琴音
+
 - CN name: 琴音
 - En name: Jikokuten(持国天王摩礼海)
-	- Buddhist god, who attack using a Pipa
-- life: 10
+  - Buddhist god, who attack using a Pipa
+- [[life point]]: 10
 - attack
-	- hurt: 3
-	- distance: 2
+  - [[attack power]]: 3
+  - distance: 2
 - talent: Aiding
-- skill: Melody(劲爆琵琶)
-	- active
-	- point: 6
-	- description: designate at most 3 characters, you can allow them to increase or decrease life by 2 points at the same time.
-![](https://imgsa.baidu.com/forum/w%3D580/sign=dd4db163aeec08fa260013af69ef3d4d/5876ae99a9014c0844483d79047b02087af4f449.jpg)  
+- skill: Melody(劲爆琵琶) - active - point: 6 - description: designate at most 3 characters, you can allow them to increase or decrease life by 2 points at the same time.
+  ![](https://imgsa.baidu.com/forum/w%3D580/sign=dd4db163aeec08fa260013af69ef3d4d/5876ae99a9014c0844483d79047b02087af4f449.jpg)

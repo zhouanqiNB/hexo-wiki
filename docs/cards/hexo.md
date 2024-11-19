@@ -1,4 +1,5 @@
-basic unit of a map, status:
+basic unit of a map, whose status includes:
+
 - vacant
 - disabled
 - occupied(by)

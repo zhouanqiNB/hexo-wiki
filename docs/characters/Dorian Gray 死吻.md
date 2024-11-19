@@ -7,5 +7,5 @@
 - skill: Kill Scapegoat(祸水东引) 
 	- [[passive skill]] 
 	- point: - 
-	- description: When you are to encounter deadly attack, you can cause 4 hurt to another character immediately. if your move make her/him dying, you can prevent the hurt you are gonna undertake.
+	- description: When you are to encounter deadly attack, you can cause 4 hurt to another character immediately. if your move make them dying, you can escape from the hurt you are gonna undertake.
   ![](https://imgsa.baidu.com/forum/w%3D580/sign=3fceacdf3a9b033b2c88fcd225cc3620/bda1c1ca7bcb0a4619fb3ae26563f6246960afe7.jpg)

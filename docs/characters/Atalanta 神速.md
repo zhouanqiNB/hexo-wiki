@@ -4,7 +4,7 @@
 	- [[attack power]]: 3
 	- [[attack range]]: 1
 - talent: [[Sharpening]]
-- skill 
+- skill: 
 	- [[active skill]] 
 	- [[skill cost]]: 7 
 	- description: You can move to whichever vacant [[hexo]] immediately and invoke a [[general attack]] to everyone in your [[attack range]].

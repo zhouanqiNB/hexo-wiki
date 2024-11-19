@@ -1,0 +1,1 @@
+Deals 0-2 random damage to enemies within distance of 1 at the end of the turn.

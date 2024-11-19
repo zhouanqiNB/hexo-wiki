@@ -1,0 +1,1 @@
+Attack all enemies within range 2 and recover life points equal to the damage dealt.

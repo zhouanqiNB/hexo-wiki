@@ -1,0 +1,1 @@
+Cause a general attack to all enemies in attack range.

@@ -1,0 +1,1 @@
+Move to any vacant hex and invoke a general attack to all enemies in range.

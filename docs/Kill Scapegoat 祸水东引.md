@@ -1,0 +1,1 @@
+When about to face a deadly attack, deal 4 damage to another character and escape the incoming damage if the target dies.

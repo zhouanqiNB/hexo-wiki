@@ -1,0 +1,1 @@
+Designate a teammate to cancel all damage to them until your next action phase.

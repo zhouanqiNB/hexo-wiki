@@ -1,0 +1,1 @@
+Designate up to 3 characters to increase or decrease life by 2 points simultaneously.

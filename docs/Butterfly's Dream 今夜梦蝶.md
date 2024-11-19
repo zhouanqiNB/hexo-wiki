@@ -1,0 +1,1 @@
+Once per round, acquire a talent you don't currently possess.

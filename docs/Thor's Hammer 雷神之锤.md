@@ -1,0 +1,1 @@
+Ground enemies that are attacked by you more than twice in 1 round for the next round.

@@ -1,0 +1,1 @@
+Pull enemies within distance 3 to your side, deal 1 attack, and Ground them for 1 round.

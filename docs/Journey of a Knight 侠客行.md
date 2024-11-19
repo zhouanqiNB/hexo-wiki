@@ -1,0 +1,1 @@
+Cancel negative status on a character and turn it into a general attack.

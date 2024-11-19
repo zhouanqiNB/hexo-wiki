@@ -1,0 +1,1 @@
+1/3 chance to double damage on general attack.

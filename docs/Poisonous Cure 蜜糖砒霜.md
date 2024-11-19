@@ -1,0 +1,1 @@
+After being attacked, designate a character to recover 2 life points but become Dizzy for 1 round (cannot designate the same target consecutively).

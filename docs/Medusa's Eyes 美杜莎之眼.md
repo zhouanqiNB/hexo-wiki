@@ -1,0 +1,1 @@
+Reduces enemy action points by 2 for the next round after being hit by your attack.

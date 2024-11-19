@@ -1,0 +1,1 @@
+When using your talent, life points given to teammates are increased to 4.

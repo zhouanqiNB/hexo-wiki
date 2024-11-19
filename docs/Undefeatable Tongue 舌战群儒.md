@@ -1,0 +1,1 @@
+Enemies attacked consecutively more than twice in 1 round become Irritated and Silenced for 1 round.

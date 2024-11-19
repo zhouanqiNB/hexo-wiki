@@ -1,1 +1,3 @@
-Once per round, acquire a talent you don't currently possess.
+- [[active skill]]
+- [[skill cost]]: 3
+- description: Once per [[round]], acquire a [[talent]] you don't currently possess.

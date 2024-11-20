@@ -104,3 +104,7 @@ Currently designed characters are listed below. Those highlighted are included i
 16. [[Zhuang Zhou 幻梦]]
 
 3. ==[[Dracula 嗜血]]==
+5. ==[[Medusa 烈弓]]==
+7. ==[[Titan 狂镰]]==
+11. ==[[Li Bai 酒诗]]==
+14. ==[[Bian Que 扶伤]]==

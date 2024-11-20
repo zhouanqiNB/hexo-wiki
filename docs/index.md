@@ -102,3 +102,5 @@ Currently designed characters are listed below. Those highlighted are included i
 14. ==[[Bian Que 扶伤]]==
 15. [[Athena 据守]]
 16. [[Zhuang Zhou 幻梦]]
+
+3. ==[[Dracula 嗜血]]==

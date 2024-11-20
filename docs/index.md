@@ -16,7 +16,7 @@ When every character in enemy team is out, you win.
 
 ## 2 The Process of a turn
 
-In one round, each player has a turn to act.
+In one [[round]], each player has a turn to act.
 
 Players decide their move turn by turn. In one turn, a player will go through 4 phases:
 

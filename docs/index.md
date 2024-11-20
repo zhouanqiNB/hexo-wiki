@@ -43,7 +43,7 @@ Players decide their move turn by turn. In one turn, a player will go through 4 
 
 ### 4.1 Talent
 
-Talent can be considered as an extra skill of the character. There are several types:
+Talent can be considered as an extra skill of the character. Talent includes: 
 
 1. [[Sharpening]]
 2. [[Precision]]
@@ -54,14 +54,14 @@ Talent can be considered as an extra skill of the character. There are several t
 ### 4.2 Negative Status
 
 1. [[Freezed]]
-1. [[Disarmed]]
-1. [[Silenced]]
-1. [[Irritated]]
-1. [[Dizzy]]
-1. [[Grounded]]
-1. [[Weakened]]
+2. [[Disarmed]]
+3. [[Silenced]]
+4. [[Irritated]]
+5. [[Dizzy]]
+6. [[Grounded]]
+7. [[Weakened]]
 
-### 4.3 Skill types
+### 4.3 [[Skill]] types
 
 - [[passive skill]]: triggered automatically when the conditions are fulfilled.
 - [[active skill]]: can be invoked during [[action phase]]

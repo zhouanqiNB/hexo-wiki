@@ -1,1 +1,1 @@
-Each [[|character]] possesses a unique skill, which can be either [[active skill|active]] or [[passive skill|passive]].
+Each [[Characters|character]] possesses a unique skill, which can be either [[active skill|active]] or [[passive skill|passive]].

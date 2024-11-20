@@ -53,6 +53,8 @@ Talent can be considered as an extra skill of the character. Talent includes:
 
 ### 4.2 Negative Status
 
+Negative S
+
 1. [[Freezed]]
 2. [[Disarmed]]
 3. [[Silenced]]

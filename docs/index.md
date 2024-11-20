@@ -4,7 +4,7 @@
 
 ### 1.1 Build a Team
 
-Choose three characters as a team
+Choose three [[characters]] as a team
 
 1. When the game starts, each player will get 5 random character cards to choose from.
 2. Each player chooses 3 out of 5 characters to compose a team.
@@ -16,7 +16,7 @@ When every character in enemy team is out, you win.
 
 ## 2 The Process of a turn
 
-In one [[round]], each player has a turn to act.
+In one [[round]], each player has a [[turn]] to take actions.
 
 Players decide their move turn by turn. In one turn, a player will go through 4 phases:
 
@@ -32,12 +32,12 @@ Players decide their move turn by turn. In one turn, a player will go through 4 
 3. [[talent]]
 4. [[life point]]
 5. [[general attack]]
-   1. [[attack power]]
-   2. [[attack range]]
+	1. [[attack power]]
+	2. [[attack range]]
 6. skill
-   1. passive/active
-   2. [[skill cost]]
-   3. description
+	1. passive/active
+	2. [[skill cost]]
+	3. description
 
 ## 4 Other Info
 

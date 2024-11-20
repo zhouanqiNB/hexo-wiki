@@ -1,0 +1,1 @@
+A turn is the phase during a round when a single player performs their actions. For instance, in a three-player game, each player takes their turn one by one to carry out their moves or decisions.

@@ -99,7 +99,7 @@ Currently designed characters are listed below. Those highlighted are included i
 11. ==[[Li Bai 酒诗]]==
 12. [[Dorian Gray 死吻]]
 13. [[Jikokuten 琴音]]
-14. ==[[Bian Que 扶伤]]==
+14. [[Bian Que 扶伤]]
 15. [[Athena 据守]]
 16. [[Zhuang Zhou 幻梦]]
 
@@ -107,4 +107,3 @@ Currently designed characters are listed below. Those highlighted are included i
 5. ==[[Medusa 烈弓]]==
 7. ==[[Titan 狂镰]]==
 11. ==[[Li Bai 酒诗]]==
-14. ==[[Bian Que 扶伤]]==
